@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-330qvh.indocuansite.online/sitemap.xml
